@@ -1,0 +1,10 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Mr. Shawn",
+	"icon": "https://micro.blog/mrshawn/avatar.jpg",
+	"home_page_url": "https://mrshawn.net/",
+	"feed_url": "https://mrshawn.net/feed.json",
+	"items": [
+		
+	]
+}
